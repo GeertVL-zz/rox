@@ -1,0 +1,6 @@
+[package]
+name = "rox"
+version = "0.1.0"
+authors = ["Geert Van Laethem <geert_van_laethem@peopleware.be>"]
+
+[dependencies]
